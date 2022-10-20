@@ -1,4 +1,4 @@
-# damn-vue-fragment [![npm version](https://badge.fury.io/js/vue-fragment.svg)](https://badge.fury.io/js/vue-fragment)
+# damn-vue-fragment [![npm version](https://badge.fury.io/js/damn-vue-fragment.svg)](https://badge.fury.io/js/damn-vue-fragment)
 
 
 ---
